@@ -1,2 +1,5 @@
-# Lab02_IDEA
- Laboratorio 2 con IDEA
+# Acuario-POO
+
+Este proyecto es una aplicación de consola en Kotlin que simula acuarios y tanques torre.
+
+## Estructura del Proyecto
